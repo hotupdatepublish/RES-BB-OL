@@ -66,17 +66,17 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "46ab1cb896bff3e40e5b9d98362fc7a6", 
+      "md5": "eb3d34f0343876b0f09e158f8007d8cd", 
       "name": "GameLayer.csb", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "e23012abff1c4d293205cea461e48883", 
+      "md5": "b6d73a62e177267635eec30014b9ac0f", 
       "name": "hundreds_table_main.plist", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "b317ec9217313271a74a7b6ea44dcf6d", 
+      "md5": "65a1f9a84c3b200a23dd3eaf7a0ca149", 
       "name": "hundreds_table_main.png", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -361,6 +361,11 @@
       "path": "oxbattle/src/models/"
     }, 
     {
+      "md5": "a46acd2623e9dc81b1735df5ba4c7175", 
+      "name": "Toolsfunction.luac", 
+      "path": "oxbattle/src/tools/"
+    }, 
+    {
       "md5": "668c0bd6e8d64ff71602ed715dba22cf", 
       "name": "GameLayer.luac", 
       "path": "oxbattle/src/views/"
@@ -391,7 +396,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "c9fe1a67937613acbeda0ac58fb1da73", 
+      "md5": "2e15c5417230bb46d4c2b4ac3941a6ba", 
       "name": "GameViewLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -406,12 +411,12 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "ce10036c9b0bb386a61779ea4eef6e5a", 
+      "md5": "ccb3e1e6ce3ca9c59369742e6d9dd487", 
       "name": "UserListLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "allcount": 82
+      "allcount": 83
     }
   ]
 }

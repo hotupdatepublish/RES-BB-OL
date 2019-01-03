@@ -1046,17 +1046,17 @@
       "path": "client/res/purchase/"
     }, 
     {
-      "md5": "9e96f273dbfe065cea7a0f5fea4b570f", 
+      "md5": "5430060e38dc414478fbb931fd1d0997", 
       "name": "1.png", 
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "bf0f1191f34eb0df9482243fc62054b5", 
+      "md5": "24058234a1a668af6a5e44dfa7359e7c", 
       "name": "2.png", 
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "0c1dc2ffb08b1735f0e20b170047bdd5", 
+      "md5": "2fbc781fe68ef9ee9f7d024bf7fe8319", 
       "name": "3.png", 
       "path": "client/res/rankingchart/"
     }, 
@@ -1266,7 +1266,7 @@
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "0effa3b13117ec3f3a8184ae4d2ce1be", 
+      "md5": "a0fdfba10779a2a0e7345acc54dd369c", 
       "name": "Recharge.csb", 
       "path": "client/res/recharge/"
     }, 
@@ -1283,6 +1283,11 @@
     {
       "md5": "7470b933adf439a9e4b7dd5a618b99e8", 
       "name": "recharge_banner_wechat.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "481539a5b359cc4c63be229b025d5642", 
+      "name": "recharge_bg.png", 
       "path": "client/res/recharge/"
     }, 
     {
@@ -1351,6 +1356,11 @@
       "path": "client/res/recharge/"
     }, 
     {
+      "md5": "da502bbcf2841c21651edc6038ec7a35", 
+      "name": "recharge_line.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
       "md5": "4305499eff34c1334cdd87734202edbe", 
       "name": "recharge_menu_alipay.png", 
       "path": "client/res/recharge/"
@@ -1366,6 +1376,11 @@
       "path": "client/res/recharge/"
     }, 
     {
+      "md5": "ff479d63e3dc15853da1bc76cafb5e39", 
+      "name": "recharge_menu_offline.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
       "md5": "50ac607f25bac041de81e9ec5a56137b", 
       "name": "recharge_menu_unionpay.png", 
       "path": "client/res/recharge/"
@@ -1378,6 +1393,41 @@
     {
       "md5": "c8b9088dbaf77822c32c16965965f500", 
       "name": "recharge_menu_wechat.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "fcac2c407f4c6a327cd26770f0e32762", 
+      "name": "recharge_offline_btn_copy.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "60b4537bb98a903927fb4e479c9b0063", 
+      "name": "recharge_offline_btn_sure.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "88ca1cf722e8eb6c04399f01b1c04c2d", 
+      "name": "recharge_offline_color_bar.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "185a23fb3b60d596d9c56a91beb20518", 
+      "name": "recharge_offline_date_bg.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "f48fd286041b13ec096f4084ff123e70", 
+      "name": "recharge_offline_down_arrow.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "785d61c60aec257d9189d2f26c069fc7", 
+      "name": "recharge_offline_input_bg.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "bdad5681fa24e92c4390f908b7ca512e", 
+      "name": "recharge_offline_input_bg_bank.png", 
       "path": "client/res/recharge/"
     }, 
     {
@@ -1916,7 +1966,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "c9e85b626104c9d696ca89ecc8b30c36", 
+      "md5": "46adcb907499ee80b49a01fd8079d2ca", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
@@ -2016,7 +2066,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "f68a9e45865f2aab9a273f1e98d26b76", 
+      "md5": "4c7e899d0770f0b9dd1ab63178788665", 
       "name": "LogonFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2046,7 +2096,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "b5cffe0d2f741de7da304bb4b21e1a88", 
+      "md5": "d6565064ff20aea979c26c8021856fe4", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2056,7 +2106,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "c955c66597bf05c8c5e2a1c9c7002e8a", 
+      "md5": "c18ed1fef3eb2cecb83ee2a10495ef3c", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2171,7 +2221,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "c4f28728f000689cbca6ccb30c9872c8", 
+      "md5": "72543b9ce38ab7ba1cb4813ab3be49cd", 
       "name": "BankChooseLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2291,7 +2341,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "afb099bbcaaa2d57a3a93e0094773cda", 
+      "md5": "78a99ad577ddd3053c3a4446f948832b", 
       "name": "RankingChartLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2311,7 +2361,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "12a1c868205f96bb0402ecee82b7dff4", 
+      "md5": "39f44a652dd28d6ed6da3b316fb35feb", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2521,7 +2571,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 504
+      "allcount": 514
     }
   ]
 }

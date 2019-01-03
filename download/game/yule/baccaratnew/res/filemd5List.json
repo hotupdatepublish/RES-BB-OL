@@ -116,6 +116,11 @@
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
+      "md5": "1c1b3a99301079a9d896fd491b65111c", 
+      "name": "bg.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
       "md5": "5df8f5356af589827de04d4c9221f807", 
       "name": "brtx.png", 
       "path": "baccaratnew/res/new_bjl/"
@@ -123,6 +128,11 @@
     {
       "md5": "69a622eba9fe8f3538babd9c67941ccd", 
       "name": "dfjs.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "937b047d4697e2828a8f293dc9cdc914", 
+      "name": "fh.png", 
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
@@ -153,6 +163,16 @@
     {
       "md5": "788bc88d9bb15112f6dbb99eff2c3d8d", 
       "name": "jia.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "fb1baf46efe796f043f7d520bbb29eca", 
+      "name": "jiantou.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "c34521446db1f4743146c57536edeef2", 
+      "name": "jt1.png", 
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
@@ -208,6 +228,16 @@
     {
       "md5": "e499ed30a1217001c2b91aeacca42e12", 
       "name": "sitrole_font_score_min.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "595af4b9533d4630e031bdfee35cd5aa", 
+      "name": "sm.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "e659ea3ff2c602c299fa0869500c9199", 
+      "name": "sz.png", 
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
@@ -466,7 +496,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "cc6a9c9797d8bdc1febd8113ab29d397", 
+      "md5": "175b1a38e69eb9a38183d7fdca9d0a7e", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -486,7 +516,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "581ba4cf87f845c5b21be559b451288e", 
+      "md5": "ff88591280c53b3b2cfde905f8c75a52", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -516,12 +546,12 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "md5": "c9bc45d59026b3d662285a20c4e293f2", 
+      "md5": "0af1097939230dd8a2e8bd65d7ec9f93", 
       "name": "UserListLayer.luac", 
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 104
+      "allcount": 110
     }
   ]
 }

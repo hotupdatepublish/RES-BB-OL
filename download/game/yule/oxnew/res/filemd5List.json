@@ -96,17 +96,17 @@
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "dd1ce8fa97a416beb09e019c38ac1e61", 
+      "md5": "dd22d5386b1634bf09777b1f753058dc", 
       "name": "GameScene.csb", 
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "1c1e458186a51f496e39be90462ad86c", 
+      "md5": "1d6e3b26c2e4bf811e9c55a4eaf15dcb", 
       "name": "gameScene_oxnew.plist", 
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "256d41bd6185b8463c11af939dd68bc2", 
+      "md5": "c583bc3c4dea1db297fb57331854c371", 
       "name": "gameScene_oxnew.png", 
       "path": "oxnew/res/game/"
     }, 
@@ -406,7 +406,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "22c51e8867bebd5921fc91641ed3535d", 
+      "md5": "b51cc152906c82a70f23c952ce50817e", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 

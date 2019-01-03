@@ -256,6 +256,11 @@
       "path": "sicbobattle/res/sound_res/"
     }, 
     {
+      "md5": "66c7a0af4736847b2b7ca0af9096c50e", 
+      "name": "shaizi.mp3", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
       "md5": "9c29d35fd19cc4003e6de89860827b0a", 
       "name": "SHAKE_DICE.wav", 
       "path": "sicbobattle/res/sound_res/"
@@ -326,7 +331,7 @@
       "path": "sicbobattle/src/models/"
     }, 
     {
-      "md5": "c81ab376b6ffa4b9995cfba07e621663", 
+      "md5": "412a99005de0d5dfae9f3d944df0fc86", 
       "name": "GameLayer.luac", 
       "path": "sicbobattle/src/views/"
     }, 
@@ -341,7 +346,7 @@
       "path": "sicbobattle/src/views/"
     }, 
     {
-      "md5": "1a4779ecc23cd13d2ceca553a18d567b", 
+      "md5": "368f3ca8124715afe3b63d7680d9c655", 
       "name": "GameViewLayer.luac", 
       "path": "sicbobattle/src/views/layer/"
     }, 
@@ -361,7 +366,7 @@
       "path": "sicbobattle/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 72
+      "allcount": 73
     }
   ]
 }
