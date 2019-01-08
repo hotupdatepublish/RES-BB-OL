@@ -1691,12 +1691,12 @@
       "path": "sparrowhz/src/views/"
     }, 
     {
-      "md5": "6afcd47dd5f9f7a493a984493654fa81", 
+      "md5": "db8715ce61d1ec25aa5b31bf6e9f5475", 
       "name": "CardLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "fc8a937d7845118a506ef0843b8fb2ed", 
+      "md5": "6faaef6181e2fa153fbb025105ad25e0", 
       "name": "GameViewLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
