@@ -491,7 +491,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "aa9ebeeabc00e5176f464c38e697db87", 
+      "md5": "44c90a54483409017c6ff23d723f9287", 
       "name": "CMD_Game.luac", 
       "path": "baccaratnew/src/models/"
     }, 
@@ -506,7 +506,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "175b1a38e69eb9a38183d7fdca9d0a7e", 
+      "md5": "0b5ead9dbe1545a98b20dfc8a7aef73b", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -526,7 +526,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "4bd5f81a084460feb2b2c3ad1a5c8a27", 
+      "md5": "4a9ea6f39e1226e53199b43161485b69", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 

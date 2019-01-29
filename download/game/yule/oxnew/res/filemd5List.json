@@ -396,7 +396,7 @@
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "5fb45922c7bde295677f471238a594cb", 
+      "md5": "15e451172749cc331fb33d64ff0776ee", 
       "name": "GameRoomListLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -406,7 +406,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "b51cc152906c82a70f23c952ce50817e", 
+      "md5": "1fd4300f757bdd3b3f0ba3e49e270d0d", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 

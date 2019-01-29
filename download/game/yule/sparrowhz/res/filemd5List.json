@@ -11,43 +11,13 @@
       "path": "sparrowhz/res/"
     }, 
     {
-      "md5": "c012edf00f74a78e8545e9d8c3cc95a1", 
-      "name": "btn_leave.png", 
+      "md5": "46b2a8794eb2b435717f36478c938823", 
+      "name": "MJMain.plist", 
       "path": "sparrowhz/res/"
     }, 
     {
-      "md5": "0440fbe0be8349c222584add1b323547", 
-      "name": "btn_leave_press.png", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "9c38621a65fe3099141915e6908913d8", 
-      "name": "Plist.plist", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "06c70a649c57743263086298da69d791", 
-      "name": "Plist.png", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "3712266ec9620c4119378b8952285d61", 
-      "name": "sp_flag_bridge.png", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "6bb179c422150b3a29dc80254ba951b2", 
-      "name": "sp_flag_eat.png", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "0a2b3f7ebb09460704dc526a5061b8e1", 
-      "name": "sp_flag_listen.png", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
-      "md5": "b5af7fdceb10d23e6e331cf9cea10baa", 
-      "name": "sp_flag_win.png", 
+      "md5": "4bdd622c449cbdc7ccf6f80a325e3bc8", 
+      "name": "MJMain.png", 
       "path": "sparrowhz/res/"
     }, 
     {
@@ -896,73 +866,8 @@
       "path": "sparrowhz/res/fonts/"
     }, 
     {
-      "md5": "9752b0ff741a70e67f6b9ea540529c4e", 
-      "name": "background_sparrowHz.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "c846bf0bedbdca9102c6f6746d28e803", 
+      "md5": "ea6ba46720b1e209d03a6d56d137748d", 
       "name": "bg_02.jpg", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "ba62d9728f419dc41f70882ce6380f1e", 
-      "name": "bt_bridge_1.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "eba7f6addf336b5b018ac53262d14f65", 
-      "name": "bt_bridge_2.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "ead6de4d564cf8f53114a20da64e703c", 
-      "name": "bt_bump_1.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "23ff5d9b71e7698c8c8a0eaa7f1239b9", 
-      "name": "bt_bump_2.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "6e324804d06f65e79fecacdc48a09e2e", 
-      "name": "bt_eat_1.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "892f32a93620970a6b0a46288e3081eb", 
-      "name": "bt_eat_2.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "7f7f7b7388f487477b50ebaed71c8749", 
-      "name": "bt_pass_1.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "bff8ce6b777f2057da94922147f0f82f", 
-      "name": "bt_pass_2.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "bf0a0a24b315d6ed6dea3341e6f0dc44", 
-      "name": "bt_win_1.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "4e1f63203ed11344bc4e45684c3d9c3d", 
-      "name": "bt_win_2.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "f61581390d6cb0a2f9c45973bf01a877", 
-      "name": "btn_close.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "c8f3eb67dc1e534b533dcad1485d784f", 
-      "name": "btn_open.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
@@ -981,22 +886,12 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "465fd67a4eea66961a2a52d53e841a4a", 
+      "md5": "b5f2bc3683b4b9fad5ce335dc5e0f581", 
       "name": "GameScene.csb", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "acf42205e07ba3175dc7e2543850acf3", 
-      "name": "num_clock.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "985259217411daa13829669ba27b68de", 
-      "name": "num_score.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "8791e901ae2a27ce52e7d52ca86eae19", 
+      "md5": "e8dc2e6e7807e3dc515d81854a5471d6", 
       "name": "Player.csb", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -1041,12 +936,12 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "3c883141fcab43f4f63ba67f42d26171", 
+      "md5": "b8c85023b97c5932daeed09ed8c977a6", 
       "name": "GameResultLayer.csb", 
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "d429124413d04e058d0f6bd6094edeb3", 
+      "md5": "6c5bc52498df326718cdd625ef85a67d", 
       "name": "nodeUser.csb", 
       "path": "sparrowhz/res/gameResult/"
     }, 
@@ -1071,37 +966,42 @@
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "8230c89681902f42cee7ac7193df99cf", 
-      "name": "bg.png", 
+      "md5": "ffbccca7af717f92d68dba678c298cf0", 
+      "name": "bg.jpg", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "0904e74c892b22202287d2e782453cc7", 
+      "md5": "724b92e6943dfb7672f2a16a490155a6", 
       "name": "fh.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "ae28bdc3daf383946829117823c587b7", 
+      "md5": "c2cce3b2cf0dd806ad908d586bbfbd71", 
       "name": "jxyx.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "564db5b951793686c3bcd46c85bc7787", 
+      "md5": "a5b4db3dbf24a8df6fa66ad613d81238", 
       "name": "lose.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "fa46c3c5c24a16233f7278005476fb04", 
+      "md5": "ca9fd27d9e4909441eec277236736533", 
       "name": "mj_d.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "efbb6182832175a702234ec87f79fc70", 
-      "name": "tx_d.png", 
+      "md5": "47e6fb95d86830fb09d0e5d273ec7e52", 
+      "name": "ping.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "764bca5f6e979716de084ea3cfcabfe0", 
+      "md5": "2216df8e85005685703dfb50107ad757", 
+      "name": "top.png", 
+      "path": "sparrowhz/res/gameResult/hzmj/"
+    }, 
+    {
+      "md5": "650028e1c04afdc9b105f6d6e4ae0837", 
       "name": "win.png", 
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
@@ -1136,7 +1036,7 @@
       "path": "sparrowhz/res/roomlist/"
     }, 
     {
-      "md5": "0470d3a8bb87cdb88c8ad8a6f1a9dc31", 
+      "md5": "8f077bf251146fd62b735db6a8cc8900", 
       "name": "Rule.txt", 
       "path": "sparrowhz/res/roomlist/"
     }, 
@@ -1676,6 +1576,11 @@
       "path": "sparrowhz/src/models/"
     }, 
     {
+      "md5": "a46acd2623e9dc81b1735df5ba4c7175", 
+      "name": "Toolsfunction.luac", 
+      "path": "sparrowhz/src/tools/"
+    }, 
+    {
       "md5": "072e7578d3578db4b4e09b6041d9871d", 
       "name": "GameLayer.luac", 
       "path": "sparrowhz/src/views/"
@@ -1691,22 +1596,22 @@
       "path": "sparrowhz/src/views/"
     }, 
     {
-      "md5": "db8715ce61d1ec25aa5b31bf6e9f5475", 
+      "md5": "1c4302b7bec1ece11015aed7a5288383", 
       "name": "CardLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "6faaef6181e2fa153fbb025105ad25e0", 
+      "md5": "a18ad7530315daa1650fbb4c62f04baf", 
       "name": "GameViewLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "ded817aa1c55bdec6dca789d79809fca", 
+      "md5": "150cc75dce503eaf37675e43bbbe40e2", 
       "name": "ResultLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "allcount": 341
+      "allcount": 322
     }
   ]
 }

@@ -1,13 +1,18 @@
 {
   "listdata": [
     {
-      "md5": "d28f1456cd4dcca9d325bbd2da9e3011", 
+      "md5": "4f60490599084fe398170b6cf1ec04fa", 
       "name": "gameLayer.csb", 
       "path": "dragontiger/res/"
     }, 
     {
       "md5": "25641241b93b3a9fb3255ac672c9003d", 
       "name": "OverLayer.csb", 
+      "path": "dragontiger/res/"
+    }, 
+    {
+      "md5": "037243dc968c72a64f220b0e8ae261ed", 
+      "name": "setLayer.csb", 
       "path": "dragontiger/res/"
     }, 
     {
@@ -721,12 +726,12 @@
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "83ae63778b85c27f8bd089fe8f5640b9", 
+      "md5": "97272b7cbafd2192acbb9d00ad23039f", 
       "name": "GameLayer.luac", 
       "path": "dragontiger/src/views/"
     }, 
     {
-      "md5": "ad2dbd05a2f3f88ab3046a3ea3bc8b07", 
+      "md5": "cd7ff1f0dd398887730a2070de4f5b1d", 
       "name": "GameRoomListLayer.luac", 
       "path": "dragontiger/src/views/"
     }, 
@@ -736,7 +741,7 @@
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "6981e8ced0c2b32e8d6a9f311d0dfa96", 
+      "md5": "e306d972f017aba3f5c2d54e1a9c8b7d", 
       "name": "GameViewLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -791,7 +796,7 @@
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 158
+      "allcount": 159
     }
   ]
 }
