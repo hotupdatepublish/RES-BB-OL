@@ -1,9 +1,9 @@
 {
 	"code":0,
-	"msg":null,
+	"msg":"游戏维护中",
 	"data":
 	{
-		"valid":true,
+		"valid":false,
 		"downloadurl":"https://raw.githubusercontent.com/hotupdatepublish/RES-BB-OL/master/download",
 		"clientversion":"27",
 		"resversion":"98",
