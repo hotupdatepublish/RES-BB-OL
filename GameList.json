@@ -1,16 +1,21 @@
 {
 	"code":0,
-	"msg":"游戏维护中",
+	"msg":null,
 	"data":
 	{
-		"valid":false,
+		"valid":true,
 		"downloadurl":"https://raw.githubusercontent.com/hotupdatepublish/RES-BB-OL/master/download",
 		"clientversion":"27",
-		"resversion":"98",
+		"resversion":"102",
 		"ios_url":"http://bbqp123.com",
 		"android_url":"http://bbqp123.com",
 		"wxLogon":1,
 		"isOpenCard":0,
+		"LOGONSERVER":"lgrm3.bbqp5566.com",
+		"GAMESERVER":"lgrm3.bbqp5566.com",
+		"LOGONPORT":8800,
+		"HTTP_URL":"http://lgapi.bbqp123.com",
+		"DL_DOMAIN":"www.bbqp123.com",
 		"gamelist":[
 			{
 				"KindID":"6",
